@@ -1,0 +1,56 @@
+[
+    {
+        "questionId": 1,
+        "formId": 1,
+        "question": "Часто ли ездите в общественном транспорте без билета?",
+        "block": true
+    },
+    {
+        "questionId": 2,
+        "formId": 1,
+        "question": "Любите ли вы вкусно поесть?",
+        "block": false
+    },
+    {
+        "questionId": 3,
+        "formId": 1,
+        "question": "Любите ли вы подарки?",
+        "block": false
+    },
+    {
+        "questionId": 4,
+        "formId": 2,
+        "question": "Признаете ли вы любовь с первого взгляда?",
+        "block": false
+    },
+    {
+        "questionId": 5,
+        "formId": 2,
+        "question": "Часто ли вы по утрам опаздываете?",
+        "block": false
+    },
+    {
+        "questionId": 6,
+        "formId": 2,
+        "question": "Откровенны ли вы со своим другом?",
+        "block": false
+    },
+    {
+        "questionId": 7,
+        "formId": 3,
+        "question": "Поддаетесь ли вы мгновенным порывам?",
+        "block": false
+    },
+    {
+        "questionId": 8,
+        "formId": 3,
+        "question": "Любите ли вы ходить в гости?",
+        "block": false
+    },
+    {
+        "questionId": 9,
+        "formId": 3,
+        "question": "Имеете ли вы привычку знакомиться на улице?",
+        "block": false
+    }
+]

@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+}
+form, label{
+    display: flex;
+    flex-direction: column;
+}
+form{
+    width: 50%;
+    margin: 0 auto;
+}
+input{
+    margin-top: 2%;
+    font-size: 2vw;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid;
+    border-radius: 4px;
+    position: relative;
+}
+label{
+    margin: 2% 0;
+}
+.arrow{
+    display: block;
+    content: "";
+    width: 24px;
+    height: 24px;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    transform: rotate(-45deg);
+    position: absolute;
+    right: 25%;
+
+}
+.hidden{
+    display: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.block{
+    display: flex;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    margin: 2%;
+}
